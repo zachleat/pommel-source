@@ -32,6 +32,5 @@ npm install pommel-source
 	{%- highlight css %}
 * { box-sizing: border-box; }
 	{%- endhighlight %}
-	</pre>
 </details>
 ```
