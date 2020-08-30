@@ -2,6 +2,14 @@
 
 A CSS file to better style a zero-dependency details/summary plugin to expand and show source code.
 
+## Installation
+
+Available on [npm](https://www.npmjs.com/package/pommel-source).
+
+```
+npm install pommel-source
+```
+
 ## Usage
 
 ```html
